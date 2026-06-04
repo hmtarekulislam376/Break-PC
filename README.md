@@ -13,7 +13,7 @@ This tool is designed **exclusively** for testing Windows Sandbox's resilience a
 
 ## Files Included
 
-- `persistent_fork_bomb.bat` - Main script (choose version A or B)
+- `BreakPC.bat` - Main script (choose version A or B)
 
 ## How to Test Inside Windows Sandbox
 
@@ -30,4 +30,4 @@ This tool is designed **exclusively** for testing Windows Sandbox's resilience a
 
 5. Run the script:
    ```cmd
-   persistent_fork_bomb.bat
+   BreakPC.bat
